@@ -1,0 +1,15 @@
+C:\Users\imouy\Desktop\asp.net\C-sharp-console-programs\InteractiveCsharpApp\bin\Debug\net6.0\InteractiveCsharpApp.exe
+C:\Users\imouy\Desktop\asp.net\C-sharp-console-programs\InteractiveCsharpApp\bin\Debug\net6.0\InteractiveCsharpApp.deps.json
+C:\Users\imouy\Desktop\asp.net\C-sharp-console-programs\InteractiveCsharpApp\bin\Debug\net6.0\InteractiveCsharpApp.runtimeconfig.json
+C:\Users\imouy\Desktop\asp.net\C-sharp-console-programs\InteractiveCsharpApp\bin\Debug\net6.0\InteractiveCsharpApp.dll
+C:\Users\imouy\Desktop\asp.net\C-sharp-console-programs\InteractiveCsharpApp\bin\Debug\net6.0\InteractiveCsharpApp.pdb
+C:\Users\imouy\Desktop\asp.net\C-sharp-console-programs\InteractiveCsharpApp\obj\Debug\net6.0\InteractiveCsharpApp.csproj.AssemblyReference.cache
+C:\Users\imouy\Desktop\asp.net\C-sharp-console-programs\InteractiveCsharpApp\obj\Debug\net6.0\InteractiveCsharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imouy\Desktop\asp.net\C-sharp-console-programs\InteractiveCsharpApp\obj\Debug\net6.0\InteractiveCsharpApp.AssemblyInfoInputs.cache
+C:\Users\imouy\Desktop\asp.net\C-sharp-console-programs\InteractiveCsharpApp\obj\Debug\net6.0\InteractiveCsharpApp.AssemblyInfo.cs
+C:\Users\imouy\Desktop\asp.net\C-sharp-console-programs\InteractiveCsharpApp\obj\Debug\net6.0\InteractiveCsharpApp.csproj.CoreCompileInputs.cache
+C:\Users\imouy\Desktop\asp.net\C-sharp-console-programs\InteractiveCsharpApp\obj\Debug\net6.0\InteractiveCsharpApp.dll
+C:\Users\imouy\Desktop\asp.net\C-sharp-console-programs\InteractiveCsharpApp\obj\Debug\net6.0\refint\InteractiveCsharpApp.dll
+C:\Users\imouy\Desktop\asp.net\C-sharp-console-programs\InteractiveCsharpApp\obj\Debug\net6.0\InteractiveCsharpApp.pdb
+C:\Users\imouy\Desktop\asp.net\C-sharp-console-programs\InteractiveCsharpApp\obj\Debug\net6.0\InteractiveCsharpApp.genruntimeconfig.cache
+C:\Users\imouy\Desktop\asp.net\C-sharp-console-programs\InteractiveCsharpApp\obj\Debug\net6.0\ref\InteractiveCsharpApp.dll
